@@ -1,6 +1,6 @@
 # Marc Mandel — LegalMarc
 
-Lawyer and builder working at the intersection of **law, privacy, and local-first software**.
+Lawyer and builder working at the intersection of **law, privacy, and software**.
 
 I build tools for professionals who handle sensitive information and need software that is useful, understandable, and trustworthy. Most of what I make is **local-first by default** — your documents stay on your machine — and ships as part of a small family of legal-tech tools I call the **Marc-\* suite**.
 
